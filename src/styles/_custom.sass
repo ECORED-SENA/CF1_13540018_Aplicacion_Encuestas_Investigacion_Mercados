@@ -1,19 +1,484 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 20%
+    right: 63%
+    width: 165.38
+  &-2
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 58%
+    right: 6%
+    width: 163
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateX(-10px)
 
   100%
-    transform: translateY(0px)
+    transform: translateX(10px)
+
+@keyframes float2
+  0%
+    transform: translateX(10px)
+
+  100%
+    transform: translateX(-10px)
+
+iframe
+  border-radius: 10px
+
+.tabs-c__header 
+    margin-bottom: 0px !important
+.tabs-c__content-item 
+  padding-left: 12px !important
+  padding-right: 12px !important
+  &:first-child 
+    padding-top: 0px !important
+.tabs-c__tab--active
+  span
+    font-weight: bold
+  
+
+
+.titulo-sexto
+  border-left: 5px solid
+  padding: 8px 0 8px 15px;
+  p
+    &.titulo
+      font-size: 14px !important
+      margin-bottom: 0px
+
+.titulo-principal__numero  
+  span
+    *
+      color: $color-sistema-texto !important
+
+.titulo-principal.color-acento-contenido
+  .titulo-principal__numero 
+    span
+      color: $color-sistema-texto !important
+
+.slyder-f
+  .horizontal-scroll__wrapper
+    padding-left: 10px
+    padding-right: 10px
+  .horizontal-scroll
+    align-items: stretch !important
+  .slyder-f__slyde    
+    display: flex
+    padding-left: 10px
+    padding-right: 10px
+    padding-bottom: 12px !important
+    padding-top: 10px !important
+
+.tema1
+  .TFcontainer
+      position: relative
+      width: 100%
+      //border-radius: 10px
+
+  .TFimage
+    display: block
+    width: 100%
+    height: 100%
+    object-fit: cover !important
+      
+
+  .TFoverlay
+    position: absolute
+    bottom: 0%
+    left: 0
+    right: 0
+    border-radius: 0px 0px 0px 0px
+    overflow: hidden
+    width: 100%
+    margin-left: 0%       
+    height: 0%
+    min-height: 86px
+    transition: .5s ease
+    background-color: #ff3c00
+    //background-color: red
+
+  .contenidooculto
+    display: none
+
+  .TFcontainer:hover .TFoverlay
+    height: 100%
+    align-items: center!important;
+    h4
+      font-size: 16px !important
+
+    .contenidooculto
+      display: block !important
+
+    border-radius: 12px 12px 0px 0px
+
+  .fondo1
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema1/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+  .fondo2
+    position: relative
+    padding-bottom: 1rem
+    // p, div,img, span
+    //   position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema1/fondo2.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+  .fondo3
+    position: relative
+    padding-bottom: 1rem
+    // p, div,img, span
+    //   position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema1/fondo3.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+  .fondo4
+    position: relative
+    padding-bottom: 1rem
+    // p, div,img, span
+    //   position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema1/fondo4.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+  .fondo5
+    position: relative
+    padding-bottom: 1rem
+    // p, div,img, span
+    //   position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema1/fondo5.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+  .fondo6
+      background-image: url("../assets/curso/tema1/fondo6.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+.introduccion
+  .tarjeta-avatar
+    img
+      top: -22px !important
+
+    .tarjeta
+      padding-top: 90px !important;
+
+  .bloque-texto-g__img
+    width: 45%
+    @media (max-width: 992px)
+        width: 100% !important
+
+  .bloque-texto-g__texto
+    width: 65%
+    @media (max-width: 992px)
+        width: 100% !important
+  .fondo1
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+.tema2
+  .sombra
+    border-radius: 20px
+    -webkit-box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3); 
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3);
+  .tabs-b__tab
+    img
+      filter: opacity(0.5);
+
+  .tabs-b__tab--active
+    img
+      filter: opacity(1) !important
+
+  .bloque-texto-g__img
+    width: 45%
+    @media (max-width: 992px)
+        width: 100% !important
+
+  .bloque-texto-g__texto
+    width: 65%
+    @media (max-width: 992px)
+        width: 100% !important
+
+  .fondo1
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema2/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+  .fondo2
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema2/fondo2.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+  .fondo3
+    position: relative
+    padding-bottom: 1rem
+    p, div,img, span
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema2/fondo3.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+.tema3
+  .linea-tiempo-d__item--selected
+    .tarjeta--gris
+      background-color: #e1eefe !important
+
+  .tabs-a__tab
+    background-color: #e8e8e8
+
+
+  .info1
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #989998 !important
+
+  .info2
+    .img-infografica__item__dot
+      &:before, &:after
+        background-color: #3874b7 !important
+
+  .fondo1
+    position: relative
+    padding-bottom: 1rem    
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema3/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+.tema4
+  .fondo1
+    position: relative
+    padding-bottom: 1rem    
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema4/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+  .bloque-texto-g__img
+    width: 35%
+    @media (max-width: 992px)
+        width: 100% !important
+
+  .bloque-texto-g__texto
+    width: 70%
+    @media (max-width: 992px)
+        width: 100% !important
+
+.tema5
+  .linea-tiempo-d__item--selected
+    .tarjeta--gris
+      background-color: #e1eefe !important
+
+  .tabs-a__tab
+    background-color: #e8e8e8
+  
+  .bloque1
+    .bloque-texto-g__img
+      width: 35%
+      @media (max-width: 992px)
+          width: 100% !important
+
+    .bloque-texto-g__texto
+      width: 70%
+      @media (max-width: 992px)
+          width: 100% !important
+
+  .bloque2
+    .bloque-texto-g 
+      position: relative;
+      display: flex;
+      justify-content: flex-start;
+
+    .bloque-texto-g__img
+      right: 0% !important
+      left: inherit;
+      width: 35%
+      @media (max-width: 992px)
+          width: 100% !important
+
+    .bloque-texto-g__texto
+      width: 69%
+      @media (max-width: 992px)
+          width: 100% !important
+
+  .fondo1
+    position: relative
+    padding-bottom: 1rem    
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema5/fondo1.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+  .fondo2
+    position: relative
+    padding-bottom: 1rem    
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema5/fondo2.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
+
+  .fondo3
+    position: relative
+    padding-bottom: 1rem    
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      left: 2.5%
+      width: 134%
+      height: 100%
+      margin: 0 -5rem
+      background-image: url("../assets/curso/tema5/fondo3.png")
+      //background-color: red
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center
