@@ -286,7 +286,36 @@
               .col-lg-4.col-10                                  
                   img(src='@/assets/curso/tema6/img28.png')
 
-      
+    .fondo3.p-lg-5.p-2.mb-5
+      .row.align-items-center.justify-content-center
+          .col-lg-10.col-12
+              ImagenInfografica.color-acento-botones.mb-0(data-aos="fade-left")
+                template(v-slot:imagen)
+                  figure
+                    img(src='@/assets/curso/tema6/img29.png')                
+
+                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="90.6%" y="49.5%" numero=" ")
+                  p.mb-0 <b>Presentación personal:</b>  en algunas empresas se utilizan los uniformes, en este caso, deben llevarse de manera correcta, en las empresas o en los cargos en donde no aplica el uso de uniforme la organización define un “código de vestuario” que define los lineamientos en la forma de vestir para los colaboradores. Cabe mencionar que en muchas empresas esto ya es un concepto no aplicable; en las ventas mayoristas y en las empresariales, la buena presentación personal es un aspecto muy valorado.                  
+                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="51.2%" y="37.8%" numero=" ")
+                  p.mb-0 <b>Normas de cortesía:</b>  deben hacer parte de cada individuo, sin embargo, es importante resaltar que con los clientes siempre deben estar presentes, saludar, despedirse, dar las gracias, solicitar.
+                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="46.8%" y="80.3%" numero=" ")
+                  p.mb-0 <b>Forma de presentarse con el cliente/ encuestado:</b>  la empresa debe definir cómo se deben presentar los encuestadores cuando van a tener interacción con un cliente. Sin embargo, lo mínimo que se debe asegurar es saludar, indicar el nombre con apellidos y el rol (encuestador).
+
+    p.mb-4 Adicional a esto, también se presentan algunos consejos básicos para un encuestador.
+
+     div.d-flex.align-items-center.mb-4.position-relative(style="z-index:1000 !important" data-aos="fade-right")    
+          div.py-2.px-3.pe-5(style="background-color:#ff3c00")  
+            h4.mb-0.text-white Consejos básicos para un encuestador 
+          div.p-0.position-relative   
+            img.mb-0.position-relative(style="width:66px; left:-35px" src="@/assets/curso/tema1/img17.svg")       
+
+
+    .px-lg-5.py-lg-3.p-3.mb-0(style="background-color: #ffeed9" data-aos="fade-left")
+      .row.align-items-center.justify-content-center
+        .col-lg-10.col-12
+          p.mb-lg-0.mb-3 Como se detalló, las encuestas tienen un gran componente técnico, y desde esta perspectiva, el conocimiento del proceso de la investigación y específicamente del cuestionario son vitales para lograr muy buenos resultados, tanto desde la gestión del encuestador como desde el estudio mismo.
+        .col-lg-2.col-6
+          img.mb-0(src='@/assets/curso/tema6/img30.svg') 
 </template>
 
 <script>
