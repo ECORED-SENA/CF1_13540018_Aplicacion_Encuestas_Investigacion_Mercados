@@ -236,7 +236,57 @@
     Separador
     #t_6_4.titulo-segundo.color-acento-contenido
       h2 6.4 Realización de encuestas
+
+    .row.justify-content-between.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-4.col-8
+        img.mb-lg-0.mb-3(src='@/assets/curso/tema6/img23.png')                
+      .col-lg-8.col-12
+        p La realización de las encuestas se conoce como el “momento de verdad”, dado que se asegura la realización del trabajo de campo, es decir, la recopilación de la información según la cantidad de encuestas que se deben aplicar (lo cual se definió previamente en la etapa de diseño). Para ejecutar esta actividad se requieren principalmente de dos roles: los supervisores quienes son las personas que tienen a su cargo un grupo de encuestadores, los acompañan, orientan y realizan seguimiento sobre el cumplimiento de su trabajo; y, por otra parte, los encuestadores, quienes son las personas que están en contacto directo con los clientes para aplicar el instrumento de investigación, además de ser el principal actor de este programa.
+        p.mb-0 Un encuestador no requiere de formación específica para realizar encuestas, por lo que cualquier persona con buena capacitación y algunas características lo podría realizar, de hecho, en algunos espacios se menciona, que la única forma de aprender realmente a hacer encuestas es haciéndolas. Sin embargo, hay algunas características que son importantes en un buen encuestador: 
     
+
+    TabsB.color-acento-contenido.mb-0(data-aos="fade-left")
+      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Ética" :icono="require('@/assets/curso/tema6/img24.svg')")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-12
+            .row.align-items-center.justify-content-between
+              .col-lg-7.col-12
+                h4 Ética
+                p.mb-lg-0.mb-3 El propósito de una encuesta es la recopilación de información para la posterior toma de decisiones; en este sentido, la información bajo ninguna circunstancia puede ser manipulada y, desde este alcance, los encuestadores son claves para garantizar que la información que se plasma en el cuestionario corresponda exactamente con lo que el encuestado manifiesta.
+              .col-lg-4.col-10                                  
+                  img(src='@/assets/curso/tema6/img25.png')
+
+      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Buen estado físico" :icono="require('@/assets/curso/tema6/img24.svg')")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-12
+            .row.align-items-center.justify-content-between
+              .col-lg-7.col-12
+                h4 Buen estado físico
+                p.mb-lg-0.mb-3 El realizar encuestas es un proceso repetitivo, y aún teniendo presente que existen las pautas de seguridad y salud en el trabajo, sí se espera que un encuestado tenga un buen estado físico, dado que cuando las encuestas deben ser realizadas de forma presencial, implica caminar y permanecer largos períodos de pie; por su parte, cuando se van a realizar de forma telefónica implica estar varias horas sentados en la misma posición.
+              .col-lg-4.col-10                                  
+                  img(src='@/assets/curso/tema6/img26.png')
+
+      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Buena comunicación" :icono="require('@/assets/curso/tema6/img24.svg')")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-12
+            .row.align-items-center.justify-content-between
+              .col-lg-7.col-12
+                h4 Buena comunicación
+                p.mb-lg-0.mb-3 La comunicación es un proceso recíproco de transmisión de información y a pesar de que no todas las personas se comunican de la misma forma, sí es muy importante que un encuestador tenga una escucha activa y tenga una actitud empática con el encuestado, es decir, que esté siempre atento a lo que se le está indicando y que trate de “ponerse en la camisa del otro” para desarrollar mejor el proceso.
+              .col-lg-3.col-10                                  
+                  img(src='@/assets/curso/tema6/img27.png')
+
+      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Etiqueta empresarial" :icono="require('@/assets/curso/tema6/img24.svg')")
+        .row.align-items-center.justify-content-center
+          .col-lg-11.col-12
+            .row.align-items-center.justify-content-between
+              .col-lg-7.col-12
+                h4 Etiqueta empresarial
+                p.mb-lg-0.mb-3 La etiqueta empresarial se interpreta como un conjunto de normas que define la empresa con el fin de actuar de manera correcta en los diferentes ámbitos de actuación de la compañía. Es una de las herramientas de comunicación y relacionamiento prácticas más poderosas que tiene una empresa, dado que la aplicación de esta permitirá una diferenciación positiva frente a otras empresas. En términos prácticos, la etiqueta empresarial no solo es un tema personal (de los colaboradores), sino organizacional, por lo que la aplicación de esta transmite confianza, tranquilidad y genera muy buena imagen
+              .col-lg-4.col-10                                  
+                  img(src='@/assets/curso/tema6/img28.png')
+
+      
 </template>
 
 <script>
