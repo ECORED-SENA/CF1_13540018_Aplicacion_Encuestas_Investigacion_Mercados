@@ -103,7 +103,7 @@
     p.mb-5 Teniendo claro qué es la segmentación, a continuación, se listan algunas razones del porqué las empresas deberían segmentar.
     
     .titulo-sexto.color-acento-contenido
-      p.titulo <b>Figura 3</b> <i>Razones para segmentar</i> 
+      p.titulo <b>Figura 3.</b> <i>Razones para segmentar</i> 
     .row.align-items-end.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-6.col-12.mb-lg-0.mb-3
         .tarjeta-avatar-b.mb-0.align-items-center.mb-4
@@ -137,7 +137,7 @@
     p.mb-4 Ahora se detalla el ejemplo de cómo una empresa define sus segmentos de mercado y a partir de esto, aplica sus estrategias comerciales y de mercadeo. En este caso, se tomó a Empresas Públicas de Medellín (EPM) como referente para mostrar el concepto de segmentos.
     
     .titulo-sexto.color-acento-contenido
-      p.titulo <b>Figura 4</b> <i> Ejemplo, variables de segmentación para EPM</i>
+      p.titulo <b>Figura 4.</b> <i> Ejemplo, variables de segmentación para EPM</i>
     .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-lg-3.col-12.d-flex.mb-lg-0.mb-5
         .tarjeta-avatar.w-100

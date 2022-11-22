@@ -20,7 +20,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          p.titulo <b>Figura 1</b> <i>Aspectos importantes del mercadeo</i> 
+          p.titulo <b>Figura 1.</b> <i>Aspectos importantes del mercadeo</i> 
     .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-lg-3.col-12.d-flex.mb-lg-0.mb-5
         .tarjeta-avatar
@@ -75,7 +75,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          p.titulo <b>Figura 2</b> <i>Proceso de realización de una investigación de mercados</i> 
+          p.titulo <b>Figura 2.</b> <i>Proceso de realización de una investigación de mercados</i> 
 
     ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-left")
             template(v-slot:imagen)
@@ -137,7 +137,7 @@
     p.mb-5 La metodología se refiere al conjunto de métodos con los cuales se realiza determinada actividad o proceso. En la investigación de mercados se tienen definidos dos tipos de metodologías la cuantitativa y cualitativa; cabe mencionar que la elección de ellas depende del objetivo que persigue el estudio. 
 
     TabsC.color-acento-contenido.mb-5(data-aos="fade-left")
-      .py-3.py-md-4(titulo="Metodología cuantitativa")
+      py-0.py-md-4(titulo="Metodología cuantitativa")
         .row.justify-content-between.align-items-center.tarjeta--azul.mb-0.p-4.py-5
           .col-lg-6.col-12
             h4 Metodología cuantitativa
@@ -147,7 +147,7 @@
           .col-lg-4.col-8
             img(src='@/assets/curso/tema1/img09.png')                
 
-      py-3.py-md-4(titulo="Metodología cualitativa")
+      py-0.py-md-4(titulo="Metodología cualitativa")
         .row.justify-content-between.align-items-center.tarjeta--azul.mb-0.p-4.py-5
           .col-lg-6.col-12
             h4 Metodología cualitativa

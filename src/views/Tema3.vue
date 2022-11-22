@@ -36,7 +36,7 @@
     .row.justify-content-end.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-11.col-12
         .titulo-sexto.color-acento-contenido
-          p.titulo <b>Figura 5</b> <i>Marco normativo de protección de datos en Colombia</i> 
+          p.titulo <b>Figura 5.</b> <i>Marco normativo de protección de datos en Colombia</i> 
         .row.justify-content-center.align-items-center
           .col-lg-5.col-12
             .tarjeta-avatar-b.mb-4(@click="figura1 = 1")
@@ -97,7 +97,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          p.titulo <b>Figura 6</b> <i>Conceptos básicos asociados a la Ley 1581 de 2012</i> 
+          p.titulo <b>Figura 6.</b> <i>Conceptos básicos asociados a la Ley 1581 de 2012</i> 
     .p-0.mb-5(data-aos="fade-left")
       img.mb-0.d-none.d-lg-block(src='@/assets/curso/tema3/img05.svg')  
       ImagenInfografica.color-acento-botones.mb-0.d-block.d-lg-none.info1
@@ -193,7 +193,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          p.titulo <b>Figura 7</b> <i>Principios en el tratamiento y protección de datos.</i>
+          p.titulo <b>Figura 7.</b> <i>Principios en el tratamiento y protección de datos.</i>
 
     TabsA.color-acento-contenido.mb-5(data-aos="fade-left")    
       .tarjeta.p-lg-5.p-3(style="background-color:#ffeed9" titulo="Principio de confidencialidad")
