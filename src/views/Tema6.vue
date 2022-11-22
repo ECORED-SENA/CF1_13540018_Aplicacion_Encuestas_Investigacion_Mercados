@@ -237,7 +237,7 @@
     #t_6_4.titulo-segundo.color-acento-contenido
       h2 6.4 Realización de encuestas
 
-    .row.justify-content-between.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-8
         img.mb-lg-0.mb-3(src='@/assets/curso/tema6/img23.png')                
       .col-lg-8.col-12
@@ -245,7 +245,7 @@
         p.mb-0 Un encuestador no requiere de formación específica para realizar encuestas, por lo que cualquier persona con buena capacitación y algunas características lo podría realizar, de hecho, en algunos espacios se menciona, que la única forma de aprender realmente a hacer encuestas es haciéndolas. Sin embargo, hay algunas características que son importantes en un buen encuestador: 
     
 
-    TabsB.color-acento-contenido.mb-0(data-aos="fade-left")
+    TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
       .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Ética" :icono="require('@/assets/curso/tema6/img24.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-12
@@ -309,6 +309,46 @@
           div.p-0.position-relative   
             img.mb-0.position-relative(style="width:66px; left:-35px" src="@/assets/curso/tema1/img17.svg")       
 
+    .p-0.mb-5.position-relative
+      .row.justify-content-start.align-items-center
+          .col-lg-10.col-12
+            .tarjeta-avatar-b.mb-0
+              .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
+                img(style="width:114px !important" src='@/assets/curso/tema6/img31.svg')
+              .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#eaf3fe;  border-radius:52px 52px 0px 0px")
+                .p-3.pe-lg-5.pe-2
+                  h4 DISTINTIVO
+                  p.mb-0 Es importante tener presente que cuando un encuestador va a realizar encuestas presenciales, requiere un carné o chaleco distintivo por parte de la empresa de modo que facilite su identificación y asociación con la empresa que realice el estudio.
+            .tarjeta-avatar-b.mb-0
+              .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
+                img(style="width:114px !important" src='@/assets/curso/tema6/img32.svg')
+              .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#d3e4fa;  border-radius:0px")
+                .p-3.pe-lg-5.pe-2
+                  h4 INDUMENTARIA CÓMODA Y PERTINENTE
+                  p.mb-0 En la elección del vestuario se debe tener la comodidad como principal característica, por lo que utilizar un calzado tipo tenis será considerada la mejor opción. En cuanto a la pertinencia hace relación a que también se debe tener presente con qué tipo de público se va a interactuar.
+            .tarjeta-avatar-b.mb-0
+              .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
+                img(style="width:114px !important" src='@/assets/curso/tema6/img33.svg')
+              .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#eaf3fe;  border-radius:0px")
+                .p-3.pe-lg-5.pe-2
+                  h4 PREGUNTAS FILTRO Y PASE
+                  p.mb-0 En cuanto a la aplicación del cuestionario, trate de seguir el orden propuesto, garantizando la aplicación de las preguntas filtro y pase, ya que una mala administración en este tipo de preguntas, puede llevar a que el cuestionario no sea considerado como efectivo.
+            .tarjeta-avatar-b.mb-0
+              .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
+                img(style="width:114px !important" src='@/assets/curso/tema6/img34.svg')
+              .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#d3e4fa;  border-radius:0px")
+                .p-3.pe-lg-5.pe-2
+                  h4 PRUEBA PILOTO
+                  p.mb-0 Antes de aplicar una encuesta con un cliente real, se realiza un ejercicio de simulación que permita validar la comprensión y funcionamiento del instrumento.<br>Para ello, se debe propender que el piloto sea lo más cercano posible a la realidad, de modo que también incluso permita medir tiempos y comportamientos posibles del encuestado frente a los interrogantes.
+            .tarjeta-avatar-b.mb-0
+              .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
+                img(style="width:114px !important" src='@/assets/curso/tema6/img35.svg')
+              .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#eaf3fe;    border-radius:0px 0px 52px 52px")
+                .p-3.pe-lg-5.pe-2
+                  h4 CONFIANZA E IMPARCIALIDAD
+                  p.mb-0 El tono de voz y la forma como se realizan las preguntas es clave. No debe parecer que se está apuntando al encuestado dependiendo de la respuesta que entregue. La clave entonces estará en realizar las preguntas de forma natural y conversada.
+
+      img.mb-0.position-absolute.d-none.d-lg-block(style="width: 25% ; bottom:0px; right:0px; " src='@/assets/curso/tema6/img36.png') 
 
     .px-lg-5.py-lg-3.p-3.mb-0(style="background-color: #ffeed9" data-aos="fade-left")
       .row.align-items-center.justify-content-center
