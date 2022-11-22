@@ -203,6 +203,36 @@
     #t_6_3.titulo-segundo.color-acento-contenido
       h2 6.3 Tipos de preguntas
 
+    p.mb-5 Las preguntas constituyen la parte central del cuestionario y, por ende, de la encuesta, y si bien un encuestador no las define, sí es necesario que conozca su tipología, para que en el momento de realizarlas al encuestado sepa cómo manipular el instrumento de investigación y cómo dar a conocer al encuestado la pregunta frente a su forma de responder. Principalmente, se trabajan con dos clasificaciones: preguntas de calidad y preguntas según el tipo de respuesta; en el siguiente esquema se detalla dicha clasificación:
+    .row.align-items-center.justify-content-center
+      .col-lg-10.col-12
+        ImagenInfografica.color-acento-botones.mb-0(data-aos="fade-left")
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/tema6/img22.svg')                
+
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="18.2%" y="7%" numero=" ")
+              p.mb-1 <b>Filtro:</b>  
+              p De este tipo de preguntas, solo puede existir una dentro del cuestionario, dado que a partir de ella se establece si la persona cumple con la característica de interés para el estudio. 
+              p.mb-0 Por ejemplo, si se va a realizar un estudio de marcas de cigarrillo la pregunta filtro, debe ser: ¿usted fuma?, la persona que responda que sí, aplicaría, sin embargo, aquella que indique que “no”, no podría participar dado que no tendría como suministrar información de relevancia. Segundo, se procede con el diseño que consiste en definir qué tipo de metodología se aplicará y a través de qué instrumento de recopilación de datos se realizará.
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="81.8%" y="7%" numero=" ")
+              p.mb-1 <b>Abierta:</b>                
+              p.mb-0 Cuando se hace mención a una pregunta abierta, se refiere a aquella donde el encuestado es libre de responder lo que considere sin tener predefinidas opciones, por ejemplo, ¿por qué le gusta fumar?, allí la persona expondrá las razones que considera tiene para realizar dicha acción. 
+
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="12.5%" y="41.3%" numero=" ")
+              p.mb-1 <b>Control:</b>                
+              p.mb-0 La pregunta de control representa una o máximo dos preguntas, que se realizan a lo largo del cuestionario, para validar la coherencia entre las respuestas, ejemplo: si la persona indicó que sí fumaba, una pregunta de control, puede ser: mencione cuántos cigarrillos en promedio fuma a la semana. Si la persona realmente tiene este hábito responderá sin dudar, si por el contrario no tiene claro el dato o no entrega la información, se percibe que se tendrá dificultades en el levantamiento de la información con dicha persona.
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="87.6%" y="41.3%" numero=" ")
+              p.mb-1 <b>Cerrada:</b>                
+              p.mb-0 Son aquellas en donde se le da al encuestado algunas posibles opciones y este se deberá acomodar a la(s) que considere más se acerca(n) a su postura. Continuando con el caso, ¿por qué le gusta fumar?, opción 1: por placer, opción 2: por costumbre, opción 3: por temas sociales, opción 4: por estrés; en este caso, se le entregaron cuatro opciones para que la persona eligiera, la que escoja más se acomoda a su comportamiento.
+    
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="18.2%" y="76.5%" numero=" ")
+              p.mb-1 <b>Pase:</b>  
+              p Es aquella que se convierte en un paso previo, antes de otra pregunta, es decir, permite garantizar que las preguntas que se realizarán de allí en adelante sí aplican para el encuestado. 
+              p.mb-0 Continuando con el ejemplo, una pregunta pase, podría ser: ¿fuma usted la marca Bermot?, si la persona dice que sí, se le preguntarían temas específicos de esta marca; si dice que no, se “pasa” o brinca hasta otra pregunta que no tenga relación con la marca Bermot.              
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="81.8%" y="76.5%" numero=" ")
+              p.mb-1 <b>Escala:</b>                
+              p.mb-0 Son aquellas en donde las opciones están preconfiguradas y estandarizadas para que siempre las opciones de respuesta sean las mismas. En ella la escala de Likert es la más conocida, ya que a través de ella, se miden las actitudes basadas en un nivel de aprobación o desaprobación respecto a un tema específico. Cuando se hace mención a Likert, las opciones de respuesta serán: muy de acuerdo, de acuerdo, ni acuerdo / ni en desacuerdo, en desacuerdo y muy en desacuerdo; si se detalla en esta escala, se tienen extremos y un término medio de elección.
     Separador
     #t_6_4.titulo-segundo.color-acento-contenido
       h2 6.4 Realización de encuestas
