@@ -30,7 +30,7 @@
 
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido
-      h2 5.1 Enfermedades profesionales con posible impacto en Encuestadores
+      h2 5.1 Enfermedades profesionales con posible impacto en encuestadores
 
     .d-none.d-lg-block
       br
@@ -84,7 +84,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.col-12   
             p Comúnmente se conocen como la pérdida total (afonía) o parcial (disfonía) de la voz y se pueden presentar debido a la utilización de volúmenes muy altos al momento de hablar y al uso de malos hábitos vocales. 
-            p.mb-lg-0.mb-3 Prevención: se recomienda evitar posturas forzadas en la cabeza y cuello, evitar la ingesta de comidas o bebidas excesivamente frías o calientes, tener cuidado con los cambios bruscos de temperatura, realizar las funciones en lugares abiertos y ventilados, dar periodos de descanso a la voz y lubricar la garganta constantemente con el consumo de agua a temperatura ambiente.
+            p.mb-lg-0.mb-3 Prevención: se recomienda evitar posturas forzadas en la cabeza y cuello, evitar la ingesta de comidas o bebidas excesivamente frías o calientes, tener cuidado con los cambios bruscos de temperatura, realizar las funciones en lugares abiertos y ventilados, dar <i>períodos</i> de descanso a la voz y lubricar la garganta constantemente con el consumo de agua a temperatura ambiente.
           .col-lg-5.col-10       
             img.mb-0( src="@/assets/curso/tema5/img08.png")   
       .tarjeta.p-lg-4.p-3(style="background-color:#eaf3fe" titulo="Lumbalgias")
@@ -111,7 +111,7 @@
             p.mb-0    Prevención: se recomienda destinar tiempos para desarrollar actividades diferentes a las laborales, para ello se sugiere determinar realizar actividades de mayor agrado       
 
     Separador
-    #t_5_2titulo-segundo.color-acento-contenido
+    #t_5_2.titulo-segundo.color-acento-contenido
       h2 5.2 Pausas activas
 
     p.mb-5 Como su nombre lo indica, las pausas activas son breves descanso que se deben realizar durante las jornadas laborales, con el ánimo de descansar las diferentes partes del cuerpo que se encuentran inmersas en alguna actividad laboral. 

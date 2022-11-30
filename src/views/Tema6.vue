@@ -11,7 +11,7 @@
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-8.col-12.p-lg-4.p-2
           p Desde el punto de vista técnico, todas las investigaciones de mercado tienen tres componentes: la metodología, que define cómo se hará la investigación y cómo se espera que se muestran los resultados; la técnica que es aquella que define cómo se recopiló la información; y el instrumento que es aquella herramienta que formaliza/ documenta a través de qué elemento se hará el levantamiento de la información. 
-          p.mb-lg-0.mb-3 En este sentido, la encuesta (survey en inglés) es por excelencia la técnica de investigación más utilizada dentro de la metodología cuantitativa, ya que permite recopilar de manera específica a través de preguntas gran cantidad de información. El siguiente esquema, permite mostrar más clara la relación entre los conceptos referenciados previamente:
+          p.mb-lg-0.mb-3 En este sentido, la encuesta (<i>survey</i> en inglés) es por excelencia la técnica de investigación más utilizada dentro de la metodología cuantitativa, ya que permite recopilar de manera específica a través de preguntas gran cantidad de información. El siguiente esquema, permite mostrar más clara la relación entre los conceptos referenciados previamente:
         .col-lg-4.col-8
           img.mb-0(src='@/assets/curso/tema6/img01.svg') 
           
@@ -38,11 +38,11 @@
         img(style="width: 169px;top:-28px" src="@/assets/curso/tema6/img05.svg")   
         .tarjeta.p-4(style="background:#ffeed9")
           h4.text-center Presentación y solicitud de colaboración: 
-          p.mb-0.text-center este es un párrafo en donde se saluda, se hace la presentación tanto de la empresa que realiza el estudio como del encuestador, se da a conocer al encuestado cuál es el objetivo del estudio, se le pregunta si está de acuerdo en participar y se propende por dar un tiempo estimado de duración de la encuesta.
+          p.mb-0.text-center Este es un párrafo en donde se saluda, se hace la presentación tanto de la empresa que realiza el estudio como del encuestador, se da a conocer al encuestado cuál es el objetivo del estudio, se le pregunta si está de acuerdo en participar y se propende por dar un tiempo estimado de duración de la encuesta.
       .tarjeta-avatar
         img(style="width: 169px;top:-28px" src="@/assets/curso/tema6/img06.svg")   
         .tarjeta.p-4(style="background:#ffeed9")
-          h4.text-center Validación del perfil del encuestado
+          h4.text-center Validación del perfil del encuestado:
           p.mb-0.text-center se denomina pregunta filtro, y tiene por fin validar que la persona a la cual se le va a aplicar el cuestionario si está dentro del público objetivo definido en la planeación de la investigación.
       .tarjeta-avatar
         img(style="width: 169px;top:-28px" src="@/assets/curso/tema6/img07.svg")   
@@ -96,6 +96,8 @@
       .col-lg-5.col-10  
         img.mb-0(src='@/assets/curso/tema6/img12.png') 
 
+    p.mb-5 Como pautas para realizar las encuestas presenciales, se requiere contar con lo siguiente:
+
     .fondo2.p-3.px-lg-5.mb-0(data-aos="fade-left")
       .row.align-items-center.justify-content-center
         .col-lg-12.col-12
@@ -105,25 +107,25 @@
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema6/img13.png')                               
               .col-lg-8.col-12
                 p.h4 <b>Encuestador:</b>
-                p.mb-0 persona que cuenta con la capacitación en la investigación, en caso de que aplique también en el uso de las herramientas tecnológicas.              
+                p.mb-0 Persona que cuenta con la capacitación en la investigación, en caso de que aplique también en el uso de las herramientas tecnológicas.              
             .row.align-items-center.justify-content-center(titulo="Elementos del encuestador") 
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema6/img14.png')                               
               .col-lg-8.col-12
                 p.h4 <b>Elementos del encuestador: </b>
-                p.mb-0 mínimamente el encuestador debe disponer de una gorra y un morral para llevar consigo la papelería y los implementos que requiere para realizar las encuestas.
+                p.mb-0 Mínimamente el encuestador debe disponer de una gorra y un morral para llevar consigo la papelería y los implementos que requiere para realizar las encuestas.
             .row.align-items-center.justify-content-center(titulo="Identificación del encuestado") 
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema6/img15.png')                               
               .col-lg-8.col-12
                 p.h4 <b>Identificación del encuestado: </b>
-                p.mb-0 dependiendo de la empresa y de los recursos disponibles, la identificación puede estar representada en un carné, un chaleco o incluso en camisas con los logos de la empresa que se está representando.
+                p.mb-0 Dependiendo de la empresa y de los recursos disponibles, la identificación puede estar representada en un carné, un chaleco o incluso en camisas con los logos de la empresa que se está representando.
             .row.align-items-center.justify-content-center(titulo="Dispositivo móvil de<br>captura o encuestas impresas") 
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema6/img16.png')                               
               .col-lg-8.col-12
                 p.h4 <b>Dispositivo móvil de captura o encuestas impresas: </b>
-                p.mb-0 indistinto si la encuesta se realiza utilizando medios tecnológicos (DMC) o material impreso, el encuestador debe validar antes de iniciar cada recorrido que se cuenta o con la aplicación disponible en el caso de la herramienta ofimática o con la cantidad suficiente de encuestas.                 
+                p.mb-0 Indistinto si la encuesta se realiza utilizando medios tecnológicos (DMC) o material impreso, el encuestador debe validar antes de iniciar cada recorrido que se cuenta o con la aplicación disponible en el caso de la herramienta ofimática o con la cantidad suficiente de encuestas.                 
 
     Separador
     #t_6_2.titulo-segundo.color-acento-contenido
@@ -145,8 +147,8 @@
         .row.justify-content-between.align-items-center.tarjeta--azul.mb-0.p-4.py-5
           .col-lg-6.col-12
             h4 Herramientas para crear encuestas virtuales
-            p Actualmente, se tienen disponibles muchas aplicaciones para crear encuestas virtuales, unas con cobro, otras con versión demo (prueba) u otras gratis (free), basta con digitar en un buscador la frase “herramientas para encuestas online” y allí se encontrarán muchas opciones. No obstante, muchos recomiendan para encuestas sencillas o con poco alcance, trabajar con Google Forms, la cual es una aplicación disponible en la suite de Google habilitada para la creación de encuestas en línea, o ya de una forma más técnica utilizar SurveyMonkey, Hubspot, SurveySparrow o QuestionPro. 
-            p.mb-lg-0.mb-3 Ahora bien, específicamente para el alcance de la gratuidad, se debe tener presente que estas al ser herramientas sin cobro, van a tener restricciones, ya sea en cantidad de envíos, cantidad de preguntas que se pueden agregar o en la forma cómo se extraen los resultados, no obstante, la mayoría de aplicaciones que tienen versiones free también disponen de planes: a demanda (por envío) que pueden ser adquiridos para cada estudio, o por paquetes de envíos para quienes trabajan en el tema de encuestas de forma recurrente.            
+            p Actualmente, se tienen disponibles muchas aplicaciones para crear encuestas virtuales, unas con cobro, otras con versión demo (prueba) u otras gratis (<i>free</i>), basta con digitar en un buscador la frase “herramientas para encuestas <i>online</i>” y allí se encontrarán muchas opciones. No obstante, muchos recomiendan para encuestas sencillas o con poco alcance, trabajar con Google Forms, la cual es una aplicación disponible en la suite de Google habilitada para la creación de encuestas en línea, o ya de una forma más técnica utilizar SurveyMonkey, Hubspot, SurveySparrow o QuestionPro. 
+            p.mb-lg-0.mb-3 Ahora bien, específicamente para el alcance de la gratuidad, se debe tener presente que estas al ser herramientas sin cobro, van a tener restricciones, ya sea en cantidad de envíos, cantidad de preguntas que se pueden agregar o en la forma cómo se extraen los resultados, no obstante, la mayoría de aplicaciones que tienen versiones <i>free</i> también disponen de planes: a demanda (por envío) que pueden ser adquiridos para cada estudio, o por paquetes de envíos para quienes trabajan en el tema de encuestas de forma recurrente.            
           .col-lg-4.col-8
             img(src='@/assets/curso/tema6/img19.png')                
 
@@ -168,28 +170,37 @@
       table
         tr
           th(style="background-color: #ff3c00; border-right: 0px")
-            h4.mb-0.text-center(style="color: white") Ventajas 
+            h4.mb-0.text-center(style="color: white") Encuestas presenciales 
           th(style="background-color: #ff3c00;")
-            h4.mb-0.text-center(style="color: white") Desventajas       
+            h4.mb-0.text-center(style="color: white") Encuestas virtuales       
         tr
-          td.br Tienen costos más altos frente a las encuestas virtuales.<br>En conjunto, suelen tener indicadores de efectividad más altos por la confianza que inspiran al encuestado.
-          td Tienen costos más bajos frente a las encuestas presenciales.<br>En el corto plazo, tienen tasas de efectividad más bajas, por lo que se requieren varios envíos para completar el número de encuestas requerido. 
+          td.br Tienen costos más altos frente a las encuestas virtuales.
+          td Tienen costos más bajos frente a las encuestas presenciales.
+
+        tr
+          td.br En conjunto, suelen tener indicadores de efectividad más altos por la confianza que inspiran al encuestado.
+          td En el corto plazo, tienen tasas de efectividad más bajas, por lo que se requieren varios envíos para completar el número de encuestas requerido. Sin embargo, es creciente la participación de este tipo de medios en la aplicación de encuestas.
+        
         tr
           td.br El trabajo de campo requiere mayor cantidad de tiempo, es decir, se requiere de mayor tiempo para lograr una sola encuesta efectiva.
-          td Sin embargo, es creciente la participación de este tipo de medios en la aplicación de encuestas.
+          td Es posible con un solo envío, enviar la encuesta a un grupo grande de personas, en poco tiempo se logra una encuesta efectiva.
+          
 
         tr
           td.br Se requiere digitar cada encuesta (ingresar la información de las encuestas) en una base de datos.
-          td Es posible con un solo envío, enviar la encuesta a un grupo grande de personas, en poco tiempo se logra una encuesta efectiva.
+          td Los datos se almacenan inmediatamente en una base de datos.
+          
+          
         tr
           td.br Pueden tener un margen de error más alto ya que se requiere la intervención humana para marcar (seleccionar) la respuesta correcta.
-          td Los datos se almacenan inmediatamente en una base de datos.
+          td Se plantea que tienen menor error, ya que los encuestados registran sus respuestas a través de botones.
+        
         tr
           td.br Suelen tener plena concentración por parte del encuestado, ya que está dedicando el tiempo a responder la encuesta.
-          td Se plantea que tienen menor error, ya que los encuestados registran sus respuestas a través de botones.
+          td No garantizan la plena atención del encuestado, ya que puede estar disperso realizando otras actividades.<br>Es posible que permitan mayor accesibilidad, es decir, llegar a lugares donde el acceso físico es complicado.
         tr
           td.br Puede presentar limitante para acceder a ciertos sitios a aplicar las encuestas.
-          td No garantizan la plena atención del encuestado, ya que puede estar disperso realizando otras actividades.<br>Es posible que permitan mayor accesibilidad, es decir, llegar a lugares donde el acceso físico es complicado.
+          td Es posible que permitan mayor accesibilidad, es decir, llegar a lugares donde el acceso físico es complicado.
 
     .px-lg-5.py-lg-3.p-3.mb-0(style="background-color: #ffeed9" data-aos="fade-left")
       .row.align-items-center.justify-content-center
@@ -214,7 +225,7 @@
             .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="18.2%" y="7%" numero=" ")
               p.mb-1 <b>Filtro:</b>  
               p De este tipo de preguntas, solo puede existir una dentro del cuestionario, dado que a partir de ella se establece si la persona cumple con la característica de interés para el estudio. 
-              p.mb-0 Por ejemplo, si se va a realizar un estudio de marcas de cigarrillo la pregunta filtro, debe ser: ¿usted fuma?, la persona que responda que sí, aplicaría, sin embargo, aquella que indique que “no”, no podría participar dado que no tendría como suministrar información de relevancia. Segundo, se procede con el diseño que consiste en definir qué tipo de metodología se aplicará y a través de qué instrumento de recopilación de datos se realizará.
+              p.mb-0 Por ejemplo, si se va a realizar un estudio de marcas de cigarrillo la pregunta filtro, debe ser: ¿usted fuma?, la persona que responda que sí, aplicaría, sin embargo, aquella que indique que “no”, no podría participar dado que no tendría como suministrar información de relevancia.
             .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="81.8%" y="7%" numero=" ")
               p.mb-1 <b>Abierta:</b>                
               p.mb-0 Cuando se hace mención a una pregunta abierta, se refiere a aquella donde el encuestado es libre de responder lo que considere sin tener predefinidas opciones, por ejemplo, ¿por qué le gusta fumar?, allí la persona expondrá las razones que considera tiene para realizar dicha acción. 
@@ -282,9 +293,11 @@
             .row.align-items-center.justify-content-between
               .col-lg-7.col-12
                 h4 Etiqueta empresarial
-                p.mb-lg-0.mb-3 La etiqueta empresarial se interpreta como un conjunto de normas que define la empresa con el fin de actuar de manera correcta en los diferentes ámbitos de actuación de la compañía. Es una de las herramientas de comunicación y relacionamiento prácticas más poderosas que tiene una empresa, dado que la aplicación de esta permitirá una diferenciación positiva frente a otras empresas. En términos prácticos, la etiqueta empresarial no solo es un tema personal (de los colaboradores), sino organizacional, por lo que la aplicación de esta transmite confianza, tranquilidad y genera muy buena imagen
+                p.mb-lg-0.mb-3 La etiqueta empresarial se interpreta como un conjunto de normas que define la empresa con el fin de actuar de manera correcta en los diferentes ámbitos de actuación de la compañía. Es una de las herramientas de comunicación y relacionamiento prácticas más poderosas que tiene una empresa, dado que la aplicación de esta permitirá una diferenciación positiva frente a otras empresas. En términos prácticos, la etiqueta empresarial no solo es un tema personal (de los colaboradores), sino organizacional, por lo que la aplicación de esta transmite confianza, tranquilidad y genera muy buena imagen.
               .col-lg-4.col-10                                  
                   img(src='@/assets/curso/tema6/img28.png')
+
+    p.mb-5 Ahora bien, las normas básicas de etiqueta empresarial están asociadas a: 
 
     .fondo3.p-lg-5.p-2.mb-5
       .row.align-items-center.justify-content-center

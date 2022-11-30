@@ -40,7 +40,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.1',
             titulo: 'Metodologías',
-            hash: 't_1_2',
+            hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
@@ -112,7 +112,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '5.1',
             titulo:
-              'Enfermedades profesionales con posible impacto en Encuestadores',
+              'Enfermedades profesionales con posible impacto en encuestadores',
             hash: 't_5_1',
           },
           {
@@ -259,7 +259,7 @@ export default {
         'principio básico necesario para la interacción con clientes. Consiste en ponerse en el lugar del otro, sin perder la objetividad.',
     },
     {
-      termino: 'Hardware',
+      termino: '<i>Hardware</i>',
       significado:
         'conjunto de elementos físicos que conforman o apoyan el funcionamiento de una computadora.',
     },

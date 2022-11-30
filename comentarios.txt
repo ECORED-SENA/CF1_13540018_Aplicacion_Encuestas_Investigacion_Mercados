@@ -1,0 +1,11 @@
+H1: Aun no hay videos disponibles
+H9: Aun no hay videos disponibles
+H20: El texto de la seccion "coordenadas" no se ha cambiado, ya que se ha colocado el correcto. El que usted señala no corresponde.
+H31: Aun no hay videos disponibles
+H40: Se sugiere preguntar si el uso de mayúscula sostenida es pertienente (1 hallazgo)
+H41: Se escala al diseñador
+H42: Se escala al diseñador
+H43: Se escala al diseñador
+H44: No hay actividad didactica disponible
+
+Segundo, se procede con el diseño que consiste en definir qué tipo de metodología se aplicará y a través de qué instrumento de recopilación de datos se realizará.

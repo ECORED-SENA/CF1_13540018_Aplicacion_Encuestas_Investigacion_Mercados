@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-7.col-12
-        p No puede mencionarse la investigación de mercados. sin antes conocer el concepto de mercadeo, mercadotecnia o marketing en inglés. Kotler y Armstrong (2007) definen el mercadeo como “el proceso mediante el cual las compañías crean valor para los clientes y establecen relaciones estrechas con ellos, para recibir a cambio valor de los clientes” (p. 4)
+        p No puede mencionarse la investigación de mercados. sin antes conocer el concepto de mercadeo, mercadotecnia o <i>marketing</i> en inglés. Kotler y Armstrong (2007) definen el mercadeo como “el proceso mediante el cual las compañías crean valor para los clientes y establecen relaciones estrechas con ellos, para recibir a cambio valor de los clientes” (p. 4)
         .p-4.mb-lg-0.mb-3(style="background-color: #cde2fd") El mercadeo, por tanto, es el proceso responsable de generar las estrategias necesarias para garantizar la venta de los productos apuntando a la sostenibilidad de la compañía; por ende, es el área a cuyo cargo se encuentra el diseño e implementación de las acciones necesarias para satisfacer las necesidades de los clientes de la forma más asertiva y rentable.
 
       .col-lg-5.col-10
@@ -46,7 +46,7 @@
     .fondo1.p-0.mb-5.py-3
       .row.justify-content-center.align-items-center.py-0(data-aos="fade-left")
         .col-lg-8.col-12.px-lg-5.px-3          
-          p.mb-lg-0.mb-3 Es en este contexto del mercadeo donde surge la <b>investigación de mercados</b> como una de sus herramientas más poderosas. Kotler (1996), define la investigación de mercados como “la planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de marketing de las organizaciones”, por su parte, Kinnear y Taylor (1998) la interpretan como “un enfoque sistemático y objetivo del desarrollo y la provisión de información aplicable al proceso de toma de decisiones en la gerencia de mercadeo”. Complementando estas definiciones, podría decirse que <b>las investigaciones tienen por fin la entrega de información que permita conocer sobre un tema de interés de forma oportuna</b>, es decir, en el momento en que se requiere.
+          p.mb-lg-0.mb-3 Es en este contexto del mercadeo donde surge la <b>investigación de mercados</b> como una de sus herramientas más poderosas. Kotler (1996), define la investigación de mercados como “la planeación, recopilación y análisis de la información relevante para la toma de decisiones en las estrategias de <i>marketing</i> de las organizaciones”, por su parte, Kinnear y Taylor (1998) la interpretan como “un enfoque sistemático y objetivo del desarrollo y la provisión de información aplicable al proceso de toma de decisiones en la gerencia de mercadeo”. Complementando estas definiciones, podría decirse que <b>las investigaciones tienen por fin la entrega de información que permita conocer sobre un tema de interés de forma oportuna</b>, es decir, en el momento en que se requiere.
         .col-lg-4.col-8
           img.mb-lg-0.mb-3(src="@/assets/curso/tema1/img06.svg")
 
@@ -97,12 +97,12 @@
                   .p-0 Tabulación y transformación de datos en información.
               p.mb-0 El cuarto paso, procesamiento y análisis, consiste en convertir todos los datos recogidos en información, para lo cual se utilizan aplicaciones informáticas que pueden ser tan sencillas como Excel, o tan especializadas como los paquetes estadísticos.
             .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="98.3%" y="20%" numero=" ")
-              p.mb-4.text-center <b>Elaboración del informe</b>  
+              p.mb-4.text-center <b>Presentación del informe</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
                 li.mb-1         
                   i.fas.fa-check
-                  .p-0 Consolidación de la información de forma técnica y visualmente agradable.
-              p.mb-0 En el quinto paso se procede a dar estructura a todo, es decir, elaborar el informe, el cual contendrá imágenes, gráficos, tablas y texto que permitan mostrar de forma clara lo recopilado y sexto, aunque no menos importante.
+                  .p-0 Entrega a satisfacción del informe de investigación.
+              p.mb-0 La presentación de resultados constituye el momento de verdad entre quien presenta la investigación y quien la solicitó. 
             .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="13%" y="78.5%" numero=" ")
               p.mb-4.text-center <b>Planeación</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
@@ -220,7 +220,7 @@
     .p-0.position-relative(data-aos="fade-left")
       div.d-flex.align-items-center.mb-0.position-relative(style="z-index:1000 !important")    
         div.py-2.px-3.pe-5(style="background-color:#ff3c00")  
-          h4.mb-0.text-white Encuestas de satisfacción 
+          h4.mb-0.text-white Metodología cuantitativa
         div.p-0.position-relative   
           img.mb-0.position-relative(style="width:66px; left:-35px" src="@/assets/curso/tema1/img17.svg")
       .p-0.d-block.d-lg-none
@@ -235,8 +235,8 @@
                 b.p-0 Encuestas.
               li.mb-1         
                 i.fas.fa-check
-                b.p-0 Paneles de investigación online.
-            p Los paneles son comunidades que son perfiladas y validadas, ya que cumplen una condición de interés para determinada marca o producto específico. Se crean en una base de datos y son contactadas con cierta frecuencia ya sea para responder encuestas de manera online o para participar de algún estudio cualitativo online, por ello se dice que los paneles dependiendo de la forma como se enfoquen aplican en ambas metodologías. 
+                b.p-0 Paneles de investigación <i>online</i>.
+            p Los paneles son comunidades que son perfiladas y validadas, ya que cumplen una condición de interés para determinada marca o producto específico. Se crean en una base de datos y son contactadas con cierta frecuencia ya sea para responder encuestas de manera <i>online</i> o para participar de algún estudio cualitativo <i>online</i>, por ello se dice que los paneles dependiendo de la forma como se enfoquen aplican en ambas metodologías. 
             p.mb-lg-0.mb-3 La permanencia de las personas en el panel se motiva a través de los incentivos que reciben por parte de las marcas o con pagos directos por cada participación.
           .col-lg-4.col-8
             img.mb-0(src='@/assets/curso/tema1/img18.svg')                  
@@ -258,12 +258,12 @@
               .col-lg-8.col-12
                 p.h4 <b>Observación</b>
                 p.mb-0 Es la técnica más básica, aunque no por ello menos potente. Consiste en mirar con la perspectiva de un investigador, como reaccionan las personas ante determinada situación, marca o producto. Por ejemplo, es muy frecuente en los centros comerciales, puntos de venta, sucursales de entidades prestadoras de servicio, la aplicación de esta técnica para comprender cómo es el nivel de interacción de los clientes.
-            .row.align-items-center.justify-content-center(titulo="Cliente misterioso<br>(Mistery Shopper)")
+            .row.align-items-center.justify-content-center(titulo="Cliente misterioso<br>(<i>Mistery Shopper</i>)")
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img20.svg')                  
               .col-lg-8.col-12
-                p.h4 <b>Cliente misterioso (Mistery Shopper)</b>
-                p.mb-0 Denominado también cliente incógnito o Mistery Shopper. Es un proceso de observación con ciertas especificaciones. Aquí el investigador no solo observa, sino que simula ser un comprador y estar interesado en adquirir determinado bien/ servicio, lo anterior se realiza para evidenciar cómo es el comportamiento del vendedor o del canal de venta. Suele utilizarse con frecuencia para comprender cómo se comportan los vendedores con los clientes.
+                p.h4 <b>Cliente misterioso (<i>Mistery Shopper</i>)</b>
+                p.mb-0 Denominado también cliente incógnito o <i>Mistery Shopper</i>. Es un proceso de observación con ciertas especificaciones. Aquí el investigador no solo observa, sino que simula ser un comprador y estar interesado en adquirir determinado bien/ servicio, lo anterior se realiza para evidenciar cómo es el comportamiento del vendedor o del canal de venta. Suele utilizarse con frecuencia para comprender cómo se comportan los vendedores con los clientes.
             .row.align-items-center.justify-content-center(titulo="Entrevista en<br>profundidad")
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img21.svg')                  
@@ -274,15 +274,15 @@
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img22.svg')                  
               .col-lg-8.col-12
-                p.h4 <b>Técnicas<br>proyectivas</b>
-                p Son técnicas provenientes de la Psicología. De hecho, son usadas con mayor frecuencia en procesos de selección de personal que incluso en mercadeo, sin embargo, son interesantes ya que posibilitan la obtención de información de una manera indirecta, ya que la persona participante en el estudio realiza varios test o pruebas a través de las cuales el experto en dichas técnicas podrá identificar su forma de pensar o sentir. 
+                p.h4 <b>Técnicas proyectivas</b>
+                p Son técnicas provenientes de la Psicología. De hecho, son usadas con mayor frecuencia en procesos de selección de personal que incluso en mercadeo, sin embargo, son interesantes ya que posibilitan la obtención de información de una manera indirecta, ya que la persona participante en el estudio realiza varios <i>test</i> o pruebas a través de las cuales el experto en dichas técnicas podrá identificar su forma de pensar o sentir. 
                 p.mb-0 De acuerdo con lo anterior, se diferencian de las entrevistas y el cliente misterioso, dado que la persona no es plenamente consciente ni de lo que se le está preguntando, ni menos de lo que está respondiendo. A modo de referente, son usadas con bastante frecuencia, con los niños y los adultos mayores.
-            .row.align-items-center.justify-content-center(titulo="Grupos focales<br>(Focus Group)")
+            .row.align-items-center.justify-content-center(titulo="Grupos focales<br>(<i>Focus Group</i>)")
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img23.svg')                  
               .col-lg-8.col-12
-                p.h4 <b>Grupos focales<br>(Focus Group)</b>
-                p.mb-0 Llamados también “focus group”, sesiones de grupo o grupos de enfoque; consiste en citar simultáneamente a un espacio a determinado grupo de personas (generalmente entre seis a doce personas) las cuales son de interés para la marca o producto que se pretende estudiar, y a través de un moderador se van realizando a los asistentes una serie de preguntas para mirar percepciones y puntos de acuerdo/ desacuerdo.
+                p.h4 <b>Grupos focales (<i>Focus Group</i>)</b>
+                p.mb-0 Llamados también “<i>Focus Group</i>”, sesiones de grupo o grupos de enfoque; consiste en citar simultáneamente a un espacio a determinado grupo de personas (generalmente entre seis a doce personas) las cuales son de interés para la marca o producto que se pretende estudiar, y a través de un moderador se van realizando a los asistentes una serie de preguntas para mirar percepciones y puntos de acuerdo/ desacuerdo.
 
             .row.align-items-center.justify-content-center(titulo="Estudios etnográficos")
               .col-lg-3.col-8
@@ -303,12 +303,12 @@
               .col-lg-8.col-12
                 p.h4 <b>Método Delphi</b>
                 p.mb-0 Consiste en reunir a un grupo de expertos en determinada temática, donde el fin es a partir de una pregunta específica obtener un consenso entre cuál debería ser la respuesta que aplica. Por ejemplo, el método Delphi suele utilizarse para definir la meta de inflación en un país, varios expertos en materia económica dan su posición y al final se llega a cuál debería ser la cifra propuesta.
-            .row.align-items-center.justify-content-center(titulo="")
+            .row.align-items-center.justify-content-center(titulo="Paneles de<br>investigación <i>online</i>")
               .col-lg-3.col-8
                 img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img27.svg')                  
               .col-lg-8.col-12
-                p.h4 <b>Paneles de investigación online</b>
-                p Los paneles son comunidades que son perfiladas y validadas, ya que cumplen una condición de interés para determinada marca o producto específico. Se crean en una base de datos y son contactadas con cierta frecuencia ya sea para responder encuestas de manera online o para participar de algún estudio cualitativo online, por ello se dice que los paneles dependiendo de la forma como se enfoquen aplican en ambas metodologías. 
+                p.h4 <b>Paneles de investigación <i>online</i></b>
+                p Los paneles son comunidades que son perfiladas y validadas, ya que cumplen una condición de interés para determinada marca o producto específico. Se crean en una base de datos y son contactadas con cierta frecuencia ya sea para responder encuestas de manera online o para participar de algún estudio cualitativo <i>online</i>, por ello se dice que los paneles dependiendo de la forma como se enfoquen aplican en ambas metodologías. 
                 p.mb-0 La permanencia de las personas en el panel se motiva a través de los incentivos que reciben por parte de las marcas o con pagos directos por cada participación.
 
 

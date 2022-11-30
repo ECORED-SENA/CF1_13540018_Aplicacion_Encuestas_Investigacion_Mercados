@@ -139,10 +139,10 @@
                 img(src='@/assets/curso/tema3/img07.svg')                
 
             .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="81.7%" y="9%" numero=" ")
-              p.mb-0 <b>El Titular</b>, es el encuestado
+              p.mb-0 <b>El tratamiento</b>, es el uso que se le daría a esta información, es decir, contactar al encuestado para suministrarle información sobre el portafolio de la empresa.
 
             .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="23.5%" y="24.5%" numero=" ")
-              p.mb-0 <b>El tratamiento</b>, es el uso que se le daría a esta información, es decir, contactar al encuestado para suministrarle información sobre el portafolio de la empresa.
+              p.mb-0 <b>El Titular</b>, es el encuestado
               
             .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="15.5%" y="49.5%" numero=" ")
               p.mb-0 <b>Los datos personales</b>, son el nombre y número telefónico

@@ -51,7 +51,7 @@
                     p.mb-lg-0.mb-3 En esta situación, la encuesta se aplicaría a clientes potenciales, ya que son aquellos que actualmente no son clientes de la empresa, aunque cumplen las condiciones para realizarlo.
                   .col-lg-4.col-6
                     img(src='@/assets/curso/tema2/img06.svg')
-      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Cliente potencial" :icono="require('@/assets/curso/tema2/img02.svg')")
+      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Usuario" :icono="require('@/assets/curso/tema2/img02.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-10.col-12
             .row.align-items-center.justify-content-start
@@ -69,7 +69,7 @@
                     p.mb-lg-0.mb-3 Al aplicarle la encuesta sobre su percepción de la oficina, sus respuestas serán tomadas como las de un usuario, ya que aunque no es cliente directo de la entidad financiera, si es usuario al visitarla por motivos laborales.
                   .col-lg-4.col-6
                     img(src='@/assets/curso/tema2/img08.svg')
-      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Cliente potencial" :icono="require('@/assets/curso/tema2/img02.svg')")
+      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Consumidor" :icono="require('@/assets/curso/tema2/img02.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-10.col-12
             .row.align-items-center.justify-content-start
@@ -145,7 +145,7 @@
           .tarjeta.p-4.py-3.w-100(style="background:#e1eefe")
             br
             h4.text-center Hogares
-            p.mb-0.text-center Clientes rurales y clientes estratos 1 al 6 ubicados en Antioquia.
+            p.mb-0 Clientes rurales y clientes estratos 1 al 6 ubicados en Antioquia.
       .col-lg-3.col-12.d-flex.mb-lg-0.mb-5
         .tarjeta-avatar.w-100
           img(style="width: 164px;top:-25px" src="@/assets/curso/tema2/img19.svg")   
@@ -234,7 +234,7 @@
       .p-0.position-relative.mb-5(data-aos="fade-right")
         div.d-flex.align-items-center.mb-0.position-relative(style="z-index:1000 !important")    
           div.py-2.px-3.pe-5(style="background-color:#ff3c00")  
-            h4.mb-0.text-white Metodología cualitativa
+            h4.mb-0.text-white La georreferenciación
           div.p-0.position-relative   
             img.mb-0.position-relative(style="width:66px; left:-35px" src="@/assets/curso/tema1/img17.svg")       
 
@@ -265,7 +265,7 @@
       .col-lg-7.col-12
         p La georreferenciación, desde la perspectiva de los encuestadores puede tener dos alcances: 1) cuando la empresa le indica las coordenadas para que tenga claridad en donde debe realizar las encuestas o 2) donde con fines de validación o recepción de datos, se solicita al encuestador que cargue la coordenada en algún tipo de dispositivo, en este segundo caso, los encuestadores deben capturar las coordenadas geográficas del objeto de interés (establecimiento o predio).
         .p-3.mb-lg-0.mb-3(style="background-color: #cde2fd")
-          De acuerdo con lo visto en este capítulo, se observa cómo los clientes son usualmente el foco de las investigaciones de mercado y por ende, en la aplicación de encuestas, por lo que se requiere que un encuestador tenga presente que los clientes son la razón de ser de la empresa y que no todos son iguales. Es aquí donde surge la segmentación como un concepto clave para entender esta diferencia y poder clasificarlos para tener mayor enfoque. 
+          p.mb-0 De acuerdo con lo visto en este capítulo, se observa cómo los clientes son usualmente el foco de las investigaciones de mercado y por ende, en la aplicación de encuestas, por lo que se requiere que un encuestador tenga presente que los clientes son la razón de ser de la empresa y que no todos son iguales. Es aquí donde surge la segmentación como un concepto clave para entender esta diferencia y poder clasificarlos para tener mayor enfoque. 
       .col-lg-5.col-8
         img.mb-0(src='@/assets/curso/tema2/img33.png')  
 
