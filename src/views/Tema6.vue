@@ -43,7 +43,7 @@
         img(style="width: 169px;top:-28px" src="@/assets/curso/tema6/img06.svg")   
         .tarjeta.p-4(style="background:#ffeed9")
           h4.text-center Validación del perfil del encuestado:
-          p.mb-0.text-center se denomina pregunta filtro, y tiene por fin validar que la persona a la cual se le va a aplicar el cuestionario si está dentro del público objetivo definido en la planeación de la investigación.
+          p.mb-0.text-center Se denomina pregunta filtro, y tiene por fin validar que la persona a la cual se le va a aplicar el cuestionario si está dentro del público objetivo definido en la planeación de la investigación.
       .tarjeta-avatar
         img(style="width: 169px;top:-28px" src="@/assets/curso/tema6/img07.svg")   
         .tarjeta.p-4(style="background:#ffeed9")
@@ -58,7 +58,7 @@
         img(style="width: 169px;top:-28px" src="@/assets/curso/tema6/img09.svg")   
         .tarjeta.p-4(style="background:#ffeed9")
           h4.text-center Datos del encuestador o del canal por el cual se realiza: 
-          p.mb-0.text-center con fines administrativos, las encuestas que son realizadas por encuestadores siempre deben indicar el código o nombre y apellido de la persona que realizó la encuesta, agregando la fecha y la hora, esto permitirá tener control y realizar posteriores auditorías. Cuando la encuesta se realiza de forma digital deberá garantizarse también que quede la trazabilidad del canal a través del cual se realizó.
+          p.mb-0.text-center Con fines administrativos, las encuestas que son realizadas por encuestadores siempre deben indicar el código o nombre y apellido de la persona que realizó la encuesta, agregando la fecha y la hora, esto permitirá tener control y realizar posteriores auditorías. Cuando la encuesta se realiza de forma digital deberá garantizarse también que quede la trazabilidad del canal a través del cual se realizó.
       .tarjeta-avatar
         img(style="width: 169px;top:-28px" src="@/assets/curso/tema6/img10.svg")   
         .tarjeta.p-4(style="background:#ffeed9")
@@ -330,35 +330,35 @@
                 img(style="width:114px !important" src='@/assets/curso/tema6/img31.svg')
               .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#eaf3fe;  border-radius:52px 52px 0px 0px")
                 .p-3.pe-lg-5.pe-2
-                  h4 DISTINTIVO
+                  h4 Distintivo
                   p.mb-0 Es importante tener presente que cuando un encuestador va a realizar encuestas presenciales, requiere un carné o chaleco distintivo por parte de la empresa de modo que facilite su identificación y asociación con la empresa que realice el estudio.
             .tarjeta-avatar-b.mb-0
               .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
                 img(style="width:114px !important" src='@/assets/curso/tema6/img32.svg')
               .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#d3e4fa;  border-radius:0px")
                 .p-3.pe-lg-5.pe-2
-                  h4 INDUMENTARIA CÓMODA Y PERTINENTE
+                  h4 Indumentaria cómoda y pertinente
                   p.mb-0 En la elección del vestuario se debe tener la comodidad como principal característica, por lo que utilizar un calzado tipo tenis será considerada la mejor opción. En cuanto a la pertinencia hace relación a que también se debe tener presente con qué tipo de público se va a interactuar.
             .tarjeta-avatar-b.mb-0
               .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
                 img(style="width:114px !important" src='@/assets/curso/tema6/img33.svg')
               .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#eaf3fe;  border-radius:0px")
                 .p-3.pe-lg-5.pe-2
-                  h4 PREGUNTAS FILTRO Y PASE
+                  h4 Preguntas filtro y pase
                   p.mb-0 En cuanto a la aplicación del cuestionario, trate de seguir el orden propuesto, garantizando la aplicación de las preguntas filtro y pase, ya que una mala administración en este tipo de preguntas, puede llevar a que el cuestionario no sea considerado como efectivo.
             .tarjeta-avatar-b.mb-0
               .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
                 img(style="width:114px !important" src='@/assets/curso/tema6/img34.svg')
               .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#d3e4fa;  border-radius:0px")
                 .p-3.pe-lg-5.pe-2
-                  h4 PRUEBA PILOTO
+                  h4 Prueba piloto
                   p.mb-0 Antes de aplicar una encuesta con un cliente real, se realiza un ejercicio de simulación que permita validar la comprensión y funcionamiento del instrumento.<br>Para ello, se debe propender que el piloto sea lo más cercano posible a la realidad, de modo que también incluso permita medir tiempos y comportamientos posibles del encuestado frente a los interrogantes.
             .tarjeta-avatar-b.mb-0
               .tarjeta-avatar-b__img(style="min-width:114px !important; max-width:114px !important")
                 img(style="width:114px !important" src='@/assets/curso/tema6/img35.svg')
               .tarjeta.d-flex.align-items-center.pe-lg-5.pe-2(style="margin-left:-54px; padding-left:64px; background-color:#eaf3fe;    border-radius:0px 0px 52px 52px")
                 .p-3.pe-lg-5.pe-2
-                  h4 CONFIANZA E IMPARCIALIDAD
+                  h4 Confianza e imparcialidad
                   p.mb-0 El tono de voz y la forma como se realizan las preguntas es clave. No debe parecer que se está apuntando al encuestado dependiendo de la respuesta que entregue. La clave entonces estará en realizar las preguntas de forma natural y conversada.
 
       img.mb-0.position-absolute.d-none.d-lg-block(style="width: 25% ; bottom:0px; right:0px; " src='@/assets/curso/tema6/img36.png') 

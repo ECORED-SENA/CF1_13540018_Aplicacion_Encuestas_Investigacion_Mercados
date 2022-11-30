@@ -138,7 +138,7 @@
     
     .titulo-sexto.color-acento-contenido
       p.titulo <b>Figura 4.</b> <i> Ejemplo, variables de segmentación para EPM</i>
-    .row.justify-content-center.mb-4(data-aos="fade-left")
+    .row.justify-content-center.mb-1(data-aos="fade-left")
       .col-lg-3.col-12.d-flex.mb-lg-0.mb-5
         .tarjeta-avatar.w-100
           img(style="width: 164px;top:-25px" src="@/assets/curso/tema2/img18.svg")   
@@ -167,6 +167,9 @@
             br
             h4.text-center Gobierno
             p.mb-0 Entidades públicas con presencia en Antioquia.
+    figcaption.mb-4 Nota. Elaborada con base en la información disponible en: http://www.epm.com.co/site/
+
+    
 
     .d-none.d-lg-block
       br
@@ -249,7 +252,7 @@
         .col-lg-6.col-12.d-flex
           .sombra.p-4(style="background-color:#eaf3fe")
             p.mb-4 <b>Coordenadas</b>
-            p.mb-4 Hace alusión a la representación específica de la ubicación a partir de la latitud y la longitud, una medida en la Tierra.
+            p.mb-4 Hace alusión a la representación específica de la ubicación a partir de la latitud y la longitud, una medida en la tierra.
             .row.justify-content-center
               .col-lg-10.col-8
                 img.mb-0(src='@/assets/curso/tema2/img32.svg')  

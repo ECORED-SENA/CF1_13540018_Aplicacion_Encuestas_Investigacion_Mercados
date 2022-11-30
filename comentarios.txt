@@ -7,5 +7,6 @@ H41: Se escala al diseñador
 H42: Se escala al diseñador
 H43: Se escala al diseñador
 H44: No hay actividad didactica disponible
+H46: No hay creditos diligenciados
 
 Segundo, se procede con el diseño que consiste en definir qué tipo de metodología se aplicará y a través de qué instrumento de recopilación de datos se realizará.
