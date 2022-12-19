@@ -89,7 +89,7 @@
                   img.mb-0(src='@/assets/curso/tema3/img03.svg')  
 
     .row.justify-content-center.align-items-center.mb-5(style="background-color:#e1eefe" data-aos="fade-right")
-      .col-lg-2.col-4.p-lg-5.py-lg-4.p-2
+      .col-sm-2.col-lg-2.col-4.p-lg-5.py-lg-4.p-2
         img.mb-lg-0.mb-3(src='@/assets/curso/tema3/img04.svg')  
       .col-lg-10.col-12
         p.mb-0 Antes de hacer referencia al objetivo de las leyes, es importante que una persona que interactúe con los clientes de una empresa comprenda los conceptos básicos asociados al tratamiento de datos personales, ya que entender la dimensión de cada concepto dará las bases necesarias para aplicar de manera correcta las leyes asociadas. A continuación, se resumen los principales términos.
@@ -138,19 +138,19 @@
               figure
                 img(src='@/assets/curso/tema3/img07.svg')                
 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="81.7%" y="9%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="81.7%" y="9%" numero="+")
               p.mb-0 <b>El tratamiento</b>, es el uso que se le daría a esta información, es decir, contactar al encuestado para suministrarle información sobre el portafolio de la empresa.
 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="23.5%" y="24.5%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="23.5%" y="24.5%" numero="+")
               p.mb-0 <b>El Titular</b>, es el encuestado
               
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="15.5%" y="49.5%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="15.5%" y="49.5%" numero="+")
               p.mb-0 <b>Los datos personales</b>, son el nombre y número telefónico
 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="56.5%" y="31%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="56.5%" y="31%" numero="+")
               p.mb-0 <b>La autorización</b>, es la posibilidad que tiene el titular (encuestado) de decirle a la agencia de investigación si permite o no que sea contactado con ese fin.
 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="86%" y="50%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 261px" x="86%" y="50%" numero="+")
               p.mb-0 <b>El responsable</b> del tratamiento, es la empresa que contrató la investigación y, en este caso, el encargado es la firma de investigación de mercados.
 
     p.mb-5 Teniendo estos conceptos claros, ahora sí, se explicará de una forma sencilla, cuál es el alcance de cada una de las principales leyes y decreto que fundamentan la protección de datos en Colombia.

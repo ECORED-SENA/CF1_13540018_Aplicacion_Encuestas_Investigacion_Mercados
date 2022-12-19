@@ -20,7 +20,7 @@
       .row.align-items-center.justify-content-center
         .col-lg-10.col-12
           p.mb-lg-0.mb-3 Desde esta perspectiva, el manejo de este tipo de herramienta se convierte en prerrequisito en algunos casos o valor agregado en otros para el desempeño de una ocupación. Ahora bien, teniendo en cuenta el enfoque de este componente, se clasificaron las herramientas para encuestas presenciales y telefónicas y para encuestas virtuales.
-        .col-lg-2.col-6.px-lg-5.px-2
+        .col-sm-3.col-lg-2.col-6.px-lg-5.px-2
           img.mb-0(src='@/assets/curso/tema4/img02.svg') 
         
     Separador
@@ -29,7 +29,7 @@
 
     p.mb-5 Cabe mencionar entonces, que cuando se menciona la ofimática, se considera tanto el componente de <i>hardware</i> (equipos), como <i>software</i> (programas o aplicaciones), cuya usabilidad está orientada a las actividades propias del entorno productivo. A continuación, se mostrarán cuáles son las principales herramientas ofimáticas que son susceptibles de uso en el contexto de la investigación de mercados presencial, a través de la siguiente agrupación:
     .row.justify-content-center.p-lg-4.p-2.mb-5(style="background-color:#eaf3fe" data-aos="fade-right")
-      .col-lg-2.col-8
+      .col-sm-4.col-lg-2.col-8
         img.mb-lg-0.mb-3(src='@/assets/curso/tema4/img03.svg') 
       .col-lg-10.col-12
         p.mb-4 <b>Herramientas ofimáticas para la aplicación de encuestas en canales telefónicos</b>
@@ -39,7 +39,7 @@
           p.mb-0 El componente de <i>hardware</i> (equipos físicos) es fundamental para poder disponer del puesto de trabajo en un <i>call center</i>; en este sentido, se debe garantizar que el encuestador cuente con computador/ monitor, procesador, <i>call center</i>, teléfono, diadema o dispositivos manos libres. Asociado al <i>software</i> (programas o aplicaciones), las funcionalidades básicas que se deben cumplir para realizar encuestas a través de medio telefónico son: enrutamiento de llamadas, distribución de llamadas a los agentes en la operación, marcación predictiva y automática, respuesta de voz interactiva, monitoreo, gestión, administración de contactos y grabación de interacciones con clientes.
 
     .row.justify-content-center.p-lg-4.p-2.mb-5(style="background-color:#b9d6fc" data-aos="fade-left")
-      .col-lg-2.col-8
+      .col-sm-4.col-lg-2.col-8
         img.mb-lg-0.mb-3(src='@/assets/curso/tema4/img04.svg') 
       .col-lg-10.col-12
         p.mb-4 <b>Herramientas para el desarrollo de la investigación de mercados</b>
@@ -48,7 +48,7 @@
         p.mb-0 En lo asociado al informe de investigación tradicionalmente se elaboran en aplicaciones para presentación de informes, como PowerPoint.
     
     .row.justify-content-center.p-lg-4.p-2.mb-0(style="background-color:#ffeed9" data-aos="fade-right")
-      .col-lg-2.col-8
+      .col-sm-4.col-lg-2.col-8
         img.mb-lg-0.mb-3(src='@/assets/curso/tema4/img05.svg') 
       .col-lg-10.col-12
         p.mb-4 <b>Herramientas ofimáticas para la aplicación de encuestas presenciales</b>

@@ -8,8 +8,8 @@
       h1 Clientes
     
     .row.align-items-center.justify-content-center.mb-5.p-3(style="background-color: #ffe2d9" data-aos="fade-right")
-      .col-lg-2.col-6
-        img.mb-lg-0.mb-3(src='@/assets/curso/tema2/img01.svg')                  
+      .col-md-4.col-lg-2.col-6.d-flex.justify-content-center
+        img.mb-lg-0.mb-3.w-75(src='@/assets/curso/tema2/img01.svg')                  
       .col-lg-10.col-12
         p.mb-0 El cliente es la razón de ser de la empresa, del mercadeo y de las ventas y, aunque es falso que el cliente siempre tiene la razón, sí es importante conocer cómo se comportan, qué necesitan y qué esperan de la empresa y sus productos. Existen numerosas clasificaciones de clientes, según cómo se comportan, según su volumen de compra, según su tipo de compra, según su personalidad, según su frecuencia, entre otras. Sin embargo, para una persona que se desempeñará como encuestador, es importante conocer que según el rol que ejercen en la compra, existen tres posibles clasificaciones de clientes:
 
@@ -93,11 +93,11 @@
       h2 2.1 Segmentación
 
     p.mb-5 La segmentación es un proceso que está ligado a los clientes. Segmentar es el proceso de dividir un mercado en grupos homogéneos (similares entre sí) con la condición de ser heterogéneos (distintos) unos de otros. 
-    .bloque-texto-g.color-secundario.p-lg-5.py-lg-4.p-2.mb-4(data-aos="fade-left")
+    .bloque-texto-g.color-secundario.p-lg-5.py-lg-4.p-sm-5.p-2.mb-4(data-aos="fade-left")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img11.png')})`}"
           )
-          .bloque-texto-g__texto.px-lg-5.py-lg-5.p-2
+          .bloque-texto-g__texto.px-lg-5.py-lg-4.p-3
             p.mb-0 Las empresas orientadas al cliente y que entienden que los clientes tienen características diferentes, implementan procesos de segmentación muy estructurados. Una vez surtido, el proceso de segmentación, se establecen los segmentos o grupos de clientes a los cuales la empresa orientará sus esfuerzos de mercadeo.
     
     p.mb-5 Teniendo claro qué es la segmentación, a continuación, se listan algunas razones del porqué las empresas deberían segmentar.

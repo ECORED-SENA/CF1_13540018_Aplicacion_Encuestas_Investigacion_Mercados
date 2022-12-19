@@ -69,7 +69,7 @@
       .row.align-items-center.justify-content-center
         .col-lg-10.col-12
           p.mb-lg-0.mb-3 Cabe mencionar, que una buena encuesta debe cumplir dos características fundamentales la fiabilidad: se evalúa si este, en igualdad de condiciones proporciona iguales resultados, es decir, es preciso, o sea, se entiende lo mismo cada vez que se aplica, y la validez, la cual consiste en que mida lo que tiene que medir.
-        .col-lg-2.col-6
+        .col-sm-3.col-lg-2.col-6
           img.mb-0(src='@/assets/curso/tema6/img11.svg') 
 
     div.d-flex.align-items-center.mb-4.position-relative(style="z-index:1000 !important" data-aos="fade-right")    
@@ -204,7 +204,7 @@
 
     .px-lg-5.py-lg-3.p-3.mb-0(style="background-color: #ffeed9" data-aos="fade-left")
       .row.align-items-center.justify-content-center
-        .col-lg-2.col-6
+        .col-sm-3.col-lg-2.col-6
           img.mb-lg-0.mb-3(src='@/assets/curso/tema6/img21.svg') 
         .col-lg-10.col-12
           p.mb-0 De lo anterior, se puede inferir, que no hay una mejor que otra, ya que, dependiendo de los recursos, el perfil del público objetivo y las condiciones del entorno, se puede establecer cuál de estas dos formas de aplicación es más funcional. 
@@ -222,26 +222,26 @@
               figure
                 img(src='@/assets/curso/tema6/img22.svg')                
 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="18.2%" y="7%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="18.2%" y="7%" numero="+")
               p.mb-1 <b>Filtro:</b>  
               p De este tipo de preguntas, solo puede existir una dentro del cuestionario, dado que a partir de ella se establece si la persona cumple con la característica de interés para el estudio. 
               p.mb-0 Por ejemplo, si se va a realizar un estudio de marcas de cigarrillo la pregunta filtro, debe ser: ¿usted fuma?, la persona que responda que sí, aplicaría, sin embargo, aquella que indique que “no”, no podría participar dado que no tendría como suministrar información de relevancia.
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="81.8%" y="7%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="81.8%" y="7%" numero="+")
               p.mb-1 <b>Abierta:</b>                
               p.mb-0 Cuando se hace mención a una pregunta abierta, se refiere a aquella donde el encuestado es libre de responder lo que considere sin tener predefinidas opciones, por ejemplo, ¿por qué le gusta fumar?, allí la persona expondrá las razones que considera tiene para realizar dicha acción. 
 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="12.5%" y="41.3%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="12.5%" y="41.3%" numero="+")
               p.mb-1 <b>Control:</b>                
               p.mb-0 La pregunta de control representa una o máximo dos preguntas, que se realizan a lo largo del cuestionario, para validar la coherencia entre las respuestas, ejemplo: si la persona indicó que sí fumaba, una pregunta de control, puede ser: mencione cuántos cigarrillos en promedio fuma a la semana. Si la persona realmente tiene este hábito responderá sin dudar, si por el contrario no tiene claro el dato o no entrega la información, se percibe que se tendrá dificultades en el levantamiento de la información con dicha persona.
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="87.6%" y="41.3%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="87.6%" y="41.3%" numero="+")
               p.mb-1 <b>Cerrada:</b>                
               p.mb-0 Son aquellas en donde se le da al encuestado algunas posibles opciones y este se deberá acomodar a la(s) que considere más se acerca(n) a su postura. Continuando con el caso, ¿por qué le gusta fumar?, opción 1: por placer, opción 2: por costumbre, opción 3: por temas sociales, opción 4: por estrés; en este caso, se le entregaron cuatro opciones para que la persona eligiera, la que escoja más se acomoda a su comportamiento.
     
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="18.2%" y="76.5%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="18.2%" y="76.5%" numero="+")
               p.mb-1 <b>Pase:</b>  
               p Es aquella que se convierte en un paso previo, antes de otra pregunta, es decir, permite garantizar que las preguntas que se realizarán de allí en adelante sí aplican para el encuestado. 
               p.mb-0 Continuando con el ejemplo, una pregunta pase, podría ser: ¿fuma usted la marca Bermot?, si la persona dice que sí, se le preguntarían temas específicos de esta marca; si dice que no, se “pasa” o brinca hasta otra pregunta que no tenga relación con la marca Bermot.              
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="81.8%" y="76.5%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="81.8%" y="76.5%" numero="+")
               p.mb-1 <b>Escala:</b>                
               p.mb-0 Son aquellas en donde las opciones están preconfiguradas y estandarizadas para que siempre las opciones de respuesta sean las mismas. En ella la escala de Likert es la más conocida, ya que a través de ella, se miden las actitudes basadas en un nivel de aprobación o desaprobación respecto a un tema específico. Cuando se hace mención a Likert, las opciones de respuesta serán: muy de acuerdo, de acuerdo, ni acuerdo / ni en desacuerdo, en desacuerdo y muy en desacuerdo; si se detalla en esta escala, se tienen extremos y un término medio de elección.
     Separador
@@ -257,7 +257,7 @@
     
 
     TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
-      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Ética" :icono="require('@/assets/curso/tema6/img24.svg')")
+      .py-lg-5.py-3.p-3(style="background-color:#ffffff" titulo="Ética" :icono="require('@/assets/curso/tema6/img24.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-12
             .row.align-items-center.justify-content-between
@@ -267,7 +267,7 @@
               .col-lg-4.col-10                                  
                   img(src='@/assets/curso/tema6/img25.png')
 
-      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Buen estado físico" :icono="require('@/assets/curso/tema6/img24.svg')")
+      .py-lg-5.py-3.p-3(style="background-color:#ffffff" titulo="Buen estado físico" :icono="require('@/assets/curso/tema6/img24.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-12
             .row.align-items-center.justify-content-between
@@ -277,7 +277,7 @@
               .col-lg-4.col-10                                  
                   img(src='@/assets/curso/tema6/img26.png')
 
-      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Buena comunicación" :icono="require('@/assets/curso/tema6/img24.svg')")
+      .py-lg-5.py-3.p-3(style="background-color:#ffffff" titulo="Buena comunicación" :icono="require('@/assets/curso/tema6/img24.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-12
             .row.align-items-center.justify-content-between
@@ -287,7 +287,7 @@
               .col-lg-3.col-10                                  
                   img(src='@/assets/curso/tema6/img27.png')
 
-      .py-lg-5.py-3.p-3(style="background-color:#ffe2d9" titulo="Etiqueta empresarial" :icono="require('@/assets/curso/tema6/img24.svg')")
+      .py-lg-5.py-3.p-3(style="background-color:#ffffff" titulo="Etiqueta empresarial" :icono="require('@/assets/curso/tema6/img24.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-11.col-12
             .row.align-items-center.justify-content-between
@@ -307,11 +307,11 @@
                   figure
                     img(src='@/assets/curso/tema6/img29.png')                
 
-                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="90.6%" y="49.5%" numero=" ")
+                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="90.6%" y="49.5%" numero="+")
                   p.mb-0 <b>Presentación personal:</b>  en algunas empresas se utilizan los uniformes, en este caso, deben llevarse de manera correcta, en las empresas o en los cargos en donde no aplica el uso de uniforme la organización define un “código de vestuario” que define los lineamientos en la forma de vestir para los colaboradores. Cabe mencionar que en muchas empresas esto ya es un concepto no aplicable; en las ventas mayoristas y en las empresariales, la buena presentación personal es un aspecto muy valorado.                  
-                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="51.2%" y="37.8%" numero=" ")
+                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="51.2%" y="37.8%" numero="+")
                   p.mb-0 <b>Normas de cortesía:</b>  deben hacer parte de cada individuo, sin embargo, es importante resaltar que con los clientes siempre deben estar presentes, saludar, despedirse, dar las gracias, solicitar.
-                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="46.8%" y="80.3%" numero=" ")
+                .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="46.8%" y="80.3%" numero="+")
                   p.mb-0 <b>Forma de presentarse con el cliente/ encuestado:</b>  la empresa debe definir cómo se deben presentar los encuestadores cuando van a tener interacción con un cliente. Sin embargo, lo mínimo que se debe asegurar es saludar, indicar el nombre con apellidos y el rol (encuestador).
 
     p.mb-4 Adicional a esto, también se presentan algunos consejos básicos para un encuestador.
@@ -367,7 +367,7 @@
       .row.align-items-center.justify-content-center
         .col-lg-10.col-12
           p.mb-lg-0.mb-3 Como se detalló, las encuestas tienen un gran componente técnico, y desde esta perspectiva, el conocimiento del proceso de la investigación y específicamente del cuestionario son vitales para lograr muy buenos resultados, tanto desde la gestión del encuestador como desde el estudio mismo.
-        .col-lg-2.col-6
+        .col-sm-3.col-lg-2.col-6
           img.mb-0(src='@/assets/curso/tema6/img30.svg') 
 </template>
 

@@ -14,11 +14,11 @@
       .col-lg-5.col-10
         img.mb-0(src='@/assets/curso/tema5/img01.svg') 
 
-    .bloque1.bloque-texto-g.color-secundario.p-lg-5.p-2.mb-5(data-aos="fade-left")
+    .bloque1.bloque-texto-g.color-secundario.p-lg-5.py-lg-4.p-sm-5.p-2.mb-5(data-aos="fade-left")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img02.png')})`}"
           )
-          .bloque-texto-g__texto.p-lg-4.p-2
+          .bloque-texto-g__texto.px-lg-5.py-lg-4.p-3
             p.mb-0 La Seguridad y Salud en el Trabajo (conocido como SST por sus siglas), son todas las actividades que cualquier organización debe implementar y realizar para promocionar, prevenir y controlar, situaciones que puedan afectar o deteriorar tanto la salud mental como física de los colaboradores que trabajan en la organización. 
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -117,14 +117,14 @@
     p.mb-5 Como su nombre lo indica, las pausas activas son breves descanso que se deben realizar durante las jornadas laborales, con el ánimo de descansar las diferentes partes del cuerpo que se encuentran inmersas en alguna actividad laboral. 
 
     .bloque2.p-0
-      .bloque-texto-g.color-primario.p-lg-5.p-2.mb-5
+      .bloque-texto-g.color-primario.p-lg-5.py-lg-4.p-sm-5.p-2.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img10.png')})`}"
           )
-          .bloque-texto-g__texto.p-lg-4.p-2
+          .bloque-texto-g__texto.px-lg-5.py-lg-4.p-3
             p.mb-0 El principal objetivo de las pausas activas es el de prevenir enfermedades que se puedan generar debido a la realización de alguna actividad laboral, al mismo tiempo que busca mantener y mejorar el buen desempeño de todos los individuos laboralmente activos. 
 
-    .fondo2.p-lg-4.p-3.mb-5
+    .fondo2.p-lg-4.p-3.mb-4
       .row.justify-content-center.align-items-center.position-relative
         .col-lg-4.col-8   
           img.mb-lg-0.mb-3( src="@/assets/curso/tema5/img11.svg")   
@@ -132,14 +132,17 @@
           p Es muy importante realizar a diario las pausas activas programadas dentro de la jornada de trabajo, ya que, a través de ellas es posible reactivar energía, mejorar la postura y mantener descansados y relajados los órganos del cuerpo. De igual forma, estimula el funcionamiento de los diferentes sistemas internos del cuerpo y lo más importante, permite desarrollar el hábito del autocuidado y la conciencia de velar por un buen estado de salud tanto mental como físico. 
           p.mb-0 En las empresas, las pausas activas, suelen ser realizadas por fisioterapeutas, practicantes de áreas deportivas o deportólogos, cuando al interior de ella se cuenta con este personal; en otros casos, son gestionadas por las áreas de gestión humana con las administradoras de riesgos laborales, más conocidas como ARL. Algunos ejemplos de ejercicios se presentan en el siguiente ejemplo.
 
-    div.d-flex.align-items-center.mb-0.position-relative(style="z-index:1000 !important")    
-          div.py-2.px-3.pe-5(style="background-color:#ff3c00")  
-            h4.mb-0.text-white Ejemplos de ejercicios de pausas activas
-          div.p-0.position-relative   
-            img.mb-0.position-relative(style="width:66px; left:-35px" src="@/assets/curso/tema1/img17.svg")       
+    .p-0.position-relative
+      div.d-flex.align-items-center.mb-0.position-relative(style="top:15px; z-index:1000 !important")    
+            div.py-2.px-3.pe-5(style="background-color:#ff3c00")  
+              h4.mb-0.text-white Ejemplos de ejercicios de pausas activas
+            div.p-0.position-relative   
+              img.mb-0.position-relative(style="width:66px; left:-35px" src="@/assets/curso/tema1/img17.svg")       
 
-    .fondo3.p-lg-4.p-3.mb-5 
-      img.mb-lg-0.mb-3.position-relative( src="@/assets/curso/tema5/img12.svg")   
+      .fondo3.p-lg-4.p-3.mb-5
+        .row.justify-content-center.align-items-center
+          .col-lg-10.col-12  
+            img.mb-lg-0.mb-3.position-relative( src="@/assets/curso/tema5/img12.svg")   
 
     .px-lg-5.py-lg-4.p-3(style="background-color: #ffeed9" data-aos="fade-left")
       .row.align-items-center.justify-content-center

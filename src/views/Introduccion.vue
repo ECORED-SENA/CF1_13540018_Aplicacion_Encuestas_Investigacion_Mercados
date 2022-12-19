@@ -19,11 +19,11 @@
 
     .row.justify-content-center.align-items-center.py-0.mb-5(data-aos="fade-right")
       .col-lg-10.col-12
-        .bloque-texto-g.color-primario.p-lg-5.py-lg-4.p-2.mb-5
+        .bloque-texto-g.color-primario.p-lg-5.py-lg-4.p-sm-5.p-2.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/img02.png')})`}"
           )
-          .bloque-texto-g__texto.px-lg-5.py-lg-4.p-2
+          .bloque-texto-g__texto.px-lg-5.py-lg-4.p-3
             p.mb-0 Tener estos conocimientos claros es tan importante que, de hecho, se ha evidenciado cómo una incorrecta elaboración o realización de estas, puede ocasionar la generación de información errónea o imprecisa que lleven a malas interpretaciones por parte de los tomadores de decisión o usuarios de los datos.
     
     p.mb-5 Para hacer lo anterior posible, el video a continuación expone cómo se desarrollará cada uno de los contenidos y su importancia en la estructuración y realización de encuestas.

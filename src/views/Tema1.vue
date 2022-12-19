@@ -60,13 +60,13 @@
               figure
                 img(src='@/assets/curso/tema1/img07.svg')                
 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="49.7%" y="12%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="55.5%" y="9%" numero="+")
               p.mb-4 <b>Reaccionar rápidamente ante los cambios del mercado</b>
               p.mb-0 Las compañías requieren estar muy atentas a los cambios que se presentan en el entorno y en el comportamiento de sus clientes, ya que ello permite generar acciones de mercadeo y comercialización oportunas y en este sentido la investigación de mercados entrega información que permita generar este tipo de reacción. 
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="68.5%" y="61.5%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="76%" y="61.5%" numero="+")
               p.mb-4 <b>Desarrollo de estrategias pertinentes </b>
               p.mb-0 La investigación de mercados proporciona información clave para desarrollar estrategias acordes con las necesidades y expectativas de los clientes, suministrando adicionalmente, la posibilidad de detectar áreas de fallo o donde se evidencien acciones de mejora.
-            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="21.5%" y="44.7%" numero=" ")
+            .tarjeta.p-3(style="background-color: #eaf3fe; width: 320px" x="24%" y="44.7%" numero="+")
               p.mb-4 <b>Optimización de recursos </b>
               p.mb-0 En ocasiones, acciones como la inversión en el lanzamiento de un nuevo producto o una campaña promocional suelen ser muy costosas si no se enfocan bien porque no se conocen a fondo las necesidades del mercado. Por ejemplo, no se deberían destinar altos recursos en publicidad creyendo que es la mejor estrategia sin nisiquiera conocer y analizar antes qué es lo que nuestros clientes opinan, desean, quieren y necesitan. Es por esto fundamental conocer su forma de pensar, para así poder cumplir con sus expectativas, obteniendo con ello mejores resultados.
     
@@ -82,42 +82,42 @@
               figure
                 img(src='@/assets/curso/tema1/img08.svg')                
 
-            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="30.5%" y="20%" numero=" ")
+            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="30.5%" y="20%" numero="+")
               p.mb-4.text-center <b>Diseño</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
                 li.mb-1         
                   i.fas.fa-check
                   .p-0 Selección de metodología e instrumento.
               p.mb-0 Segundo, se procede con el diseño que consiste en definir qué tipo de metodología se aplicará y a través de qué instrumento de recopilación de datos se realizará.
-            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="64.5%" y="20%" numero=" ")
+            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="64.5%" y="20%" numero="+")
               p.mb-4.text-center <b>Procesamiento y análisis</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
                 li.mb-1         
                   i.fas.fa-check
                   .p-0 Tabulación y transformación de datos en información.
               p.mb-0 El cuarto paso, procesamiento y análisis, consiste en convertir todos los datos recogidos en información, para lo cual se utilizan aplicaciones informáticas que pueden ser tan sencillas como Excel, o tan especializadas como los paquetes estadísticos.
-            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="98.3%" y="20%" numero=" ")
+            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="98.3%" y="20%" numero="+")
               p.mb-4.text-center <b>Presentación del informe</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
                 li.mb-1         
                   i.fas.fa-check
                   .p-0 Entrega a satisfacción del informe de investigación.
               p.mb-0 La presentación de resultados constituye el momento de verdad entre quien presenta la investigación y quien la solicitó. 
-            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="13%" y="78.5%" numero=" ")
+            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="13%" y="78.5%" numero="+")
               p.mb-4.text-center <b>Planeación</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
                 li.mb-1         
                   i.fas.fa-check
                   .p-0 Definición de elementos
               p.mb-0 La planeación es el momento en el que se define el objetivo de investigación, alcance, tiempo estimado y presupuesto.
-            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="47.4%" y="79%" numero=" ")
+            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="47.4%" y="79%" numero="+")
               p.mb-4.text-center <b>Trabajo de campo</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
                 li.mb-1         
                   i.fas.fa-check
                   .p-0 Recopilación de información
               p.mb-0 Se procede a realizar el trabajo de campo, es decir, el levantamiento de información con el público objetivo del estudio.
-            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="81.3%" y="79.3%" numero=" ")
+            .tarjeta.p-3(style="background-color: #ffe2d9; width: 320px" x="81.3%" y="79.3%" numero="+")
               p.mb-4.text-center <b>Elaboración del informe</b>  
               ul.lista-ul--color.mb-lg-0.mb-4
                 li.mb-1         
@@ -174,12 +174,12 @@
               .col-lg-7.col-12
                 h4.mb-4 Situación uno
                 p.mb-lg-0.mb-3 La empresa Pasteliando Ltda. desea conocer por qué sus ventas han disminuido en los últimos meses, en este sentido, la pregunta a resolver es <font style="color:#388AF5">“por qué”</font>, por tanto, la recomendación se orientaría un estudio con metodología cualitativa.
-              .col-lg-3.col-8
+              .col-lg-3.col-sm-4.col-8
                   img(src='@/assets/curso/tema1/img12.svg')                  
               .col-lg-2
             .row.justify-content-center.align-items-center
               .col-lg-2            
-              .col-lg-3.col-8
+              .col-lg-3.col-sm-4.col-8
                   img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img13.svg')  
               .col-lg-7.col-12
                 h4.mb-4 Situación dos
@@ -188,7 +188,7 @@
               .col-lg-7.col-12
                 h4.mb-4 Situación tres
                 p.mb-lg-0.mb-3 La empresa Mati Shoes desea evaluar <font style="color:#388AF5">cuál es el nivel de satisfacción</font> por parte de sus clientes, por ello, realiza <b>un estudio con metodología cuantitativa</b>. Sin embargo, cuando ven los resultados evidencian una disminución del 10% en la evaluación general de los clientes, por ello, desde el Departamento de Mercadeo, se solicita realizar <b>un estudio cualitativo</b> para entender <b style="color:#388AF5">cuáles son las causas</b>, que han llevado a ese deterioro del indicador.
-              .col-lg-3.col-8
+              .col-lg-3.col-sm-4.col-8
                   img(src='@/assets/curso/tema1/img14.svg')                  
               .col-lg-2
     Separador
@@ -198,7 +198,7 @@
     p.mb-5 Estas representan el conjunto de herramientas, procedimientos e instrumentos que se utilizan para recopilar los datos en un estudio; de hecho, las técnicas tienen asociación con la metodología. 
 
     .row.justify-content-center.align-items-even.mb-5(data-aos="fade-right")
-      .col-md-4.col-12
+      .col-md-6.col-xl-4.col-12
         .TFcontainer.mb-lg-0.mb-3.p-0
           img.TFimage(src='@/assets/curso/tema1/img15.png')
           .TFoverlay.d-flex.align-items-top
@@ -206,7 +206,7 @@
               div.w-100.mt-2
                 h4.mb-lg-4.mb-3.text-center.w-100.text-white Metodología cuantitativa
               p.mb-0.contenidooculto.text-white Tradicionalmente la técnica utilizada son las encuestas, ya que han sido por excelencia la herramienta usada para recopilar la información cuando el fin es la obtención de cifras; generalmente son aplicadas por perfiles técnicos u operativos.
-      .col-md-4.col-12
+      .col-md-6.col-xl-4.col-12
         .TFcontainer.mb-0.p-0
           img.TFimage(src='@/assets/curso/tema1/img16.png')
           .TFoverlay.d-flex.align-items-top
@@ -279,7 +279,7 @@
                 p.mb-0 De acuerdo con lo anterior, se diferencian de las entrevistas y el cliente misterioso, dado que la persona no es plenamente consciente ni de lo que se le está preguntando, ni menos de lo que está respondiendo. A modo de referente, son usadas con bastante frecuencia, con los niños y los adultos mayores.
             .row.align-items-center.justify-content-center(titulo="Grupos focales<br>(<i>Focus Group</i>)")
               .col-lg-3.col-8
-                img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img23.svg')                  
+                img.mb-lg-0.mb-3(src='@/assets/curso/tema1/img23.png')                  
               .col-lg-8.col-12
                 p.h4 <b>Grupos focales (<i>Focus Group</i>)</b>
                 p.mb-0 Llamados también “<i>Focus Group</i>”, sesiones de grupo o grupos de enfoque; consiste en citar simultáneamente a un espacio a determinado grupo de personas (generalmente entre seis a doce personas) las cuales son de interés para la marca o producto que se pretende estudiar, y a través de un moderador se van realizando a los asistentes una serie de preguntas para mirar percepciones y puntos de acuerdo/ desacuerdo.
